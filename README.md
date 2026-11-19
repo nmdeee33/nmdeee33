@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:020617,55:0B3C7D,100:0EA5E9&text=Ni%20Made%20Sulistyawati&fontSize=44&fontColor=E0F2FE&fontAlignY=42&animation=twinkling&desc=UI%2FUX%20%C3%97%20Front-end%20%C3%97%20IoT%20%C3%97%20Live%20Media&descSize=18&descColor=7DD3FC&descAlignY=64" width="100%" />
+<img src="https://raw.githubusercontent.com/nmdeee33/nmdeee33/main/assets/banner.svg" width="100%" alt="Ni Made Sulistyawati" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=%24+merancang+antarmuka+yang+nyaman+dipakai;%24+membangun+sistem+dari+front-end+sampai+ESP32;%24+menyiarkan+acara+dari+balik+kamera+utama;%24+belajar+terus+di+Politeknik+Negeri+Lampung" />
 
 <br/>
 
-<a href="mailto:madewati057@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C7D?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/nmdeee33"><img src="https://img.shields.io/badge/GitHub-nmdeee33-0F172A?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ni-made-sulistyawati-9aa040259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/_nmdeee"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:madewati057@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C7D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
 <img src="https://img.shields.io/badge/D4_TRPL-Polinela-0EA5E9?style=flat" />
 <img src="https://img.shields.io/badge/IPK-3.90-22C55E?style=flat" />
 <img src="https://img.shields.io/badge/Lampung-Indonesia-475569?style=flat" />
@@ -143,6 +147,10 @@ Dies Natalis ke-42 Polinela · PKKMB 2026 · SIPTEKTERA · SCC Nasional · Kampa
 
 <img src="https://raw.githubusercontent.com/nmdeee33/nmdeee33/output/github-snake-dark.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=90&color=0:020617,55:0B3C7D,100:0EA5E9&animation=twinkling" width="100%" />
+<br/>
+
+<a href="https://www.linkedin.com/in/ni-made-sulistyawati-9aa040259">LinkedIn</a> ·
+<a href="https://www.instagram.com/_nmdeee">Instagram</a> ·
+<a href="mailto:madewati057@gmail.com">Email</a>
 
 </div>
