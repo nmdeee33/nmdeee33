@@ -1,116 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B3C7D,50:1D8FE1,100:38BDF8&text=Ni%20Made%20Sulistyawati&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Design%20%C2%B7%20Build%20%C2%B7%20Broadcast&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:020617,55:0B3C7D,100:0EA5E9&text=Ni%20Made%20Sulistyawati&fontSize=44&fontColor=E0F2FE&fontAlignY=42&animation=twinkling&desc=UI%2FUX%20%C3%97%20Front-end%20%C3%97%20IoT%20%C3%97%20Live%20Media&descSize=18&descColor=7DD3FC&descAlignY=64" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Merancang+antarmuka+yang+nyaman+dipakai;Membangun+sistemnya+dari+front-end+sampai+IoT;Mendokumentasikan+dan+menyiarkannya+secara+live" />
-
-**Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Lampung**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=%24+merancang+antarmuka+yang+nyaman+dipakai;%24+membangun+sistem+dari+front-end+sampai+ESP32;%24+menyiarkan+acara+dari+balik+kamera+utama;%24+belajar+terus+di+Politeknik+Negeri+Lampung" />
 
 <br/>
 
-<a href="mailto:madewati057@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C7D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Lampung-Indonesia-38BDF8?style=for-the-badge" />
+<a href="mailto:madewati057@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C7D?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nmdeee33"><img src="https://img.shields.io/badge/GitHub-nmdeee33-0F172A?style=flat&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/D4_TRPL-Polinela-0EA5E9?style=flat" />
+<img src="https://img.shields.io/badge/IPK-3.90-22C55E?style=flat" />
+<img src="https://img.shields.io/badge/Lampung-Indonesia-475569?style=flat" />
 
 </div>
 
----
+<br/>
 
-## 👋 Sekilas
+## ⚡ Status Saat Ini
 
-Saya suka pekerjaan yang ada di perbatasan antara teknologi dan komunikasi visual. Di kampus saya memimpin divisi komunikasi dan kreatif, magang sebagai desainer grafis di Kehumasan Polinela, dan di sisi teknis mengerjakan aplikasi, website, serta sistem IoT untuk masalah nyata di pertanian, UMKM, dan kemanusiaan.
+> 🎨 **Magang** desainer grafis di Kehumasan Polinela
+> 🧩 **Memimpin** divisi Creative Flyer di Polinela Creative
+> 🤝 **Sekretaris** Divisi Kemitraan dan Kerjasama GenBI Komisariat Polinela
+> 🎓 **Kuliah** D4 Teknologi Rekayasa Perangkat Lunak, penerima Beasiswa Bank Indonesia 2026
 
-Saat ini saya aktif di:
-- 🎨 Desainer Grafis magang, Kehumasan Polinela
-- 🧩 Ketua Divisi Creative Flyer, Polinela Creative
-- 🤝 Sekretaris Divisi Kemitraan dan Kerjasama, GenBI Komisariat Polinela
-- 🎓 Semester aktif D4 TRPL, IPK 3.90
+<br/>
 
----
+## 🧬 Cara Saya Bekerja
 
-## 🧭 Tiga Hal yang Saya Kerjakan
+Saya tidak mau berhenti di satu sisi. Antarmuka saya rancang sendiri di Figma, saya kodekan ke front-end, sistem di belakangnya saya bangun (PHP, MySQL, atau ESP32 dengan sensor), lalu hasil kegiatannya saya dokumentasikan dan siarkan langsung. Masalah yang saya sasar selalu nyata: pertanian, UMKM, dan kemanusiaan.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 Design</h3>
-      UI/UX aplikasi mobile dan web, poster, serta materi publikasi.
-      <br/><br/>
-      <sub>Figma · FigJam · Photoshop · Affinity · Canva · Lightroom</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛠️ Build</h3>
-      Front-end, website berbasis PHP dan MySQL, serta IoT dengan ESP32 dan sensor gas.
-      <br/><br/>
-      <sub>HTML · CSS · JavaScript · Python · PHP · MySQL · Firebase · Arduino IDE</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎥 Broadcast</h3>
-      Operator media, master kamera, dan live streaming untuk acara kampus dan nasional.
-      <br/><br/>
-      <sub>OBS Studio · vMix · Zoom · YouTube Live · CapCut</sub>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+## 🗂️ Proyek
 
-## 🚀 Proyek Pilihan
+<details open>
+<summary><b>🌾 IoT dan Perangkat Keras</b></summary>
+<br/>
 
-| Proyek | Yang saya kerjakan |
-|---|---|
-| **E-CASSAVA** | Perangkat keras dan lunak sistem IoT (ESP32 + sensor gas MQ-2, MQ-3, MQ-135) untuk mendeteksi kerusakan singkong pascapanen tanpa merusak sampel, plus website pemantau hasil sensor |
-| **Hompimpa** | Aplikasi mobile untuk mencari dan mengikuti kegiatan komunitas lokal. Merancang UI/UX sekaligus mengimplementasikannya ke front-end |
-| **Donetra** | Anggota tim pengembang platform web verifikasi relawan dan pelacakan donasi logistik kemanusiaan (FIT Competition 2026, Track V) |
-| **StockWise** | Website responsif untuk stok dan akuntansi digital UMKM, dengan Smart Restock dan peringatan dini dead stock |
-| **Smart Glove Translator** | PKM-KI: penerjemah bahasa isyarat dua arah dengan sensor gerak, ESP32, dan aplikasi mobile (speech-to-text, AI, SOS) |
-| **VisionAies** | PKM-KC: aplikasi deteksi penyakit mata dengan deep learning (TensorFlow) dan Case Based Reasoning |
-| **Kandangku** | UI/UX aplikasi mobile dan sistem IoT pemantau suhu, kelembapan, serta gas kandang |
-| **Website Absensi PKKMB** | Tim pengembang sistem absensi peserta PKKMB Polinela 2026 |
+- **E-CASSAVA**: perangkat keras dan lunak berbasis ESP32 dengan sensor gas MQ-2, MQ-3, dan MQ-135 untuk mendeteksi kerusakan singkong pascapanen secara non-destruktif, ditambah website pemantau hasil sensor.
+- **Smart Glove Translator** (PKM-KI): penerjemah bahasa isyarat dua arah dengan sensor gerak, ESP32, dan aplikasi mobile berfitur speech-to-text, AI, dan SOS.
+- **IoT Kandangku**: pemantau suhu, kelembapan, dan kadar gas pada kandang.
 
-Desain UI/UX lain: Agriwave, Mindora, SangSmart.
+</details>
 
----
+<details>
+<summary><b>📱 Web dan Mobile</b></summary>
+<br/>
 
-## 🏆 Prestasi
+- **Hompimpa**: aplikasi mobile untuk mencari dan mengikuti kegiatan komunitas lokal. UI/UX saya rancang sekaligus saya implementasikan ke front-end.
+- **Donetra** (FIT Competition 2026, Track V): platform web verifikasi relawan dan pelacakan donasi untuk logistik kemanusiaan yang transparan.
+- **StockWise**: website responsif untuk stok dan akuntansi digital UMKM, dengan Smart Restock dan peringatan dini dead stock.
+- **Website Absensi PKKMB 2026**: sistem absensi peserta PKKMB Polinela.
+- **UI/UX**: Agriwave, Mindora, SangSmart, Kandangku.
 
-- 🥇 Juara 1, Lomba Internet of Things, International Innovation 4 Force
-- 🥇 Juara 1, Lomba Desain UI/UX, Poin Project 3.0
-- 🥇 Juara 1, Lomba Poster, Polinela Tourism Fest 2025
-- 🎖️ Mahasiswa Berprestasi Prodi TRPL dan Jurusan Teknologi Informasi (2025 dan 2026)
-- 🎓 Penerima Beasiswa Bank Indonesia 2026
+</details>
 
----
+<details>
+<summary><b>🧠 AI</b></summary>
+<br/>
 
-## 🌱 Jejak Organisasi dan Kepanitiaan
+- **VisionAies** (PKM-KC): aplikasi deteksi penyakit mata dengan deep learning (TensorFlow) dan Case Based Reasoning.
 
-- **Ketua Divisi Komunikasi dan Informasi ASTECH Polinela** (Mar 2025 – Jan 2026): strategi komunikasi visual dan identitas media sosial organisasi
-- **Relawan** pendampingan UMKM Desa Kelawi bersama Bank Indonesia, riset Smart Precision Farming, dan pendampingan pangan fungsional KWT Sedap Malam
-- **Panitia** Dies Natalis ke-42 Polinela, PKKMB 2026, SIPTEKTERA, SCC Nasional, BizConnect EU-ASEAN SCOPE-HE, AITeC VIII, Lentera x Literasi Lingkungan
+</details>
 
----
+<br/>
 
-## 🧰 Stack
+## 🏆 Pencapaian
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,lr,html,css,js,py,php,mysql,firebase,arduino,vscode&perline=12" />
+<img src="https://img.shields.io/badge/🥇_Juara_1-IoT_International_Innovation_4_Force-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🥇_Juara_1-UI%2FUX_Poin_Project_3.0-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🥇_Juara_1-Poster_Polinela_Tourism_Fest_2025-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎖️_Mahasiswa_Berprestasi-2025_%26_2026-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_Beasiswa-Bank_Indonesia_2026-22C55E?style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-## 📊 Aktivitas GitHub
+## 🎬 Di Balik Layar dan Organisasi
+
+<details>
+<summary><b>Kepemimpinan dan kemitraan</b></summary>
+<br/>
+
+- **Ketua Divisi Komunikasi dan Informasi ASTECH Polinela** (Mar 2025 – Jan 2026): strategi komunikasi visual dan identitas media sosial.
+- **Ketua Divisi Creative Flyer, Polinela Creative** (Jan 2025 – sekarang).
+- **Sekretaris Divisi Kemitraan dan Kerjasama, GenBI Komisariat Polinela** (Okt 2026 – sekarang).
+
+</details>
+
+<details>
+<summary><b>Operator media dan live streaming</b></summary>
+<br/>
+
+Dies Natalis ke-42 Polinela · PKKMB 2026 · SIPTEKTERA · SCC Nasional · Kampanye Kampus Inklusif · BizConnect EU-ASEAN SCOPE-HE · AITeC VIII · Lentera x Literasi Lingkungan
+
+</details>
+
+<details>
+<summary><b>Relawan</b></summary>
+<br/>
+
+- Pendampingan UMKM dan pariwisata Desa Kelawi bersama Bank Indonesia
+- Dokumentasi riset Smart Precision Farming untuk ketahanan pangan Lampung
+- Pendampingan pangan fungsional KWT Sedap Malam
+
+</details>
+
+<br/>
+
+## 🧰 Toolbox
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=figma,ps,lr,html,css,js,py,php,mysql,firebase,arduino,vscode&perline=12&theme=dark" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
+<img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obsstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/vMix-1E293B?style=flat" />
+<img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Affinity-1B72BE?style=flat&logo=affinitydesigner&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0B3C7D,50:1D8FE1,100:38BDF8&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+## 📈 Aktivitas
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmdeee33&bg_color=0D1117&color=7DD3FC&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&radius=8" width="100%" />
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nmdeee33&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=420" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/nmdeee33/nmdeee33/output/github-snake-dark.svg" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=90&color=0:020617,55:0B3C7D,100:0EA5E9&animation=twinkling" width="100%" />
 
 </div>
