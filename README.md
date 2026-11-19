@@ -149,8 +149,14 @@ Dies Natalis ke-42 Polinela · PKKMB 2026 · SIPTEKTERA · SCC Nasional · Kampa
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ni-made-sulistyawati-9aa040259">LinkedIn</a> ·
-<a href="https://www.instagram.com/_nmdeee">Instagram</a> ·
-<a href="mailto:madewati057@gmail.com">Email</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/ni-made-sulistyawati-9aa040259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/_nmdeee"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:madewati057@gmail.com"><img src="https://img.shields.io/badge/Email-0B3C7D?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/nmdeee33/nmdeee33/main/assets/footer.svg" width="100%" alt="Terima kasih sudah mampir" />
 
 </div>
