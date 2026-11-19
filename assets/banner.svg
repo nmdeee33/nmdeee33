@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0B3C7D"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="360" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#E0F2FE"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        from="-360 0" to="720 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="round"><rect width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+
+    <!-- orb cahaya melayang -->
+    <circle cx="160" cy="60" r="90" fill="url(#orb)">
+      <animate attributeName="cy" values="60;110;60" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="160;210;160" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="200" r="110" fill="url(#orb)">
+      <animate attributeName="cy" values="200;150;200" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="850;800;850" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="30" r="60" fill="url(#orb)">
+      <animate attributeName="cy" values="30;70;30" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- nama -->
+    <text x="500" y="125" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="52" font-weight="700" letter-spacing="1" fill="url(#shine)" opacity="0">
+      Ni Made Sulistyawati
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0"
+                        dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- garis bawah memanjang -->
+    <rect x="390" y="148" width="0" height="3" rx="1.5" fill="#38BDF8">
+      <animate attributeName="width" from="0" to="220" begin="0.8s" dur="1s" fill="freeze"/>
+    </rect>
+
+    <!-- subjudul -->
+    <text x="500" y="192" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="20" fill="#BAE6FD" opacity="0" letter-spacing="2">
+      UI/UX  ·  Front-end  ·  IoT  ·  Live Media
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="1s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
