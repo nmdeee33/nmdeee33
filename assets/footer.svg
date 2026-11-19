@@ -1,1 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.6" stop-color="#0B3C7D"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0B3C7D" stop-opacity="0.6"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="230" rx="18"/></clipPath>
+  </defs>
 
+  <g clip-path="url(#round)">
+    <rect width="1000" height="230" fill="url(#bg)"/>
+
+    <!-- bintang berkelip -->
+    <g fill="#E0F2FE">
+      <circle cx="90" cy="40" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="240" cy="75" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="380" cy="30" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="640" cy="45" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="780" cy="85" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="910" cy="35" r="1.6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- teks -->
+    <text x="500" y="78" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="30" font-weight="700" fill="#E0F2FE" opacity="0" letter-spacing="1">
+      Terima kasih sudah mampir
+      <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+    </text>
+    <text x="500" y="110" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="16" fill="#BAE6FD" opacity="0" letter-spacing="2">
+      Mari berkolaborasi dan membangun sesuatu yang berguna
+      <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- gelombang belakang (lambat) -->
+    <path fill="url(#wave2)"
+          d="M0 150 Q250 115 500 150 T1000 150 T1500 150 T2000 150 V230 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- gelombang depan (lebih cepat, arah sama, fase beda) -->
+    <path fill="url(#wave1)"
+          d="M-500 175 Q-250 140 0 175 T500 175 T1000 175 T1500 175 T2000 175 V230 H-500 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
